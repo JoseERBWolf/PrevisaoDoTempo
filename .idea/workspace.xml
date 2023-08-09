@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfe401d1-9a99-4d90-81be-55e1896c2225" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appPrevisaoDoTempo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arquivo/ArquivoJson.java" afterDir="false" />
+    <list default="true" id="cfe401d1-9a99-4d90-81be-55e1896c2225" name="Changes" comment="gera o arquivo json">
       <change afterPath="$PROJECT_DIR$/src/Executavel/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HttpRR/ConsultaClima.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Model/Clima.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Records/ClimaRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Records/DescricaoClima.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Records/Localizacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Records/Temperatura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +74,49 @@
       <option name="presentableId" value="Default" />
       <updated>1691547047090</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit inicial">
+      <created>1691553441727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691553441728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="consumir os dados da temperatura">
+      <created>1691553486131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691553486131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="consumir os dados da localização">
+      <created>1691553501622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691553501622</updated>
+    </task>
+    <task id="LOCAL-00004" summary="consumindo os dados sobre a descrição do clima">
+      <created>1691553529105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691553529105</updated>
+    </task>
+    <task id="LOCAL-00005" summary="consultando o clima da cidade pela API">
+      <created>1691553563723</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691553563723</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gera o arquivo json">
+      <created>1691553589406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691553589406</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +129,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit inicial" />
+    <MESSAGE value="consumir os dados da temperatura" />
+    <MESSAGE value="consumir os dados da localização" />
+    <MESSAGE value="consumindo os dados sobre a descrição do clima" />
+    <MESSAGE value="consultando o clima da cidade pela API" />
+    <MESSAGE value="gera o arquivo json" />
+    <option name="LAST_COMMIT_MESSAGE" value="gera o arquivo json" />
   </component>
 </project>
